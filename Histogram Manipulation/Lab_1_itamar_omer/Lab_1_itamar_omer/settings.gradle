@@ -1,0 +1,3 @@
+rootProject.name = "Lab_1_Template"
+include ':app'
+include ':opencv'

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab_2_Template</string>
+    <string name="activity_name">SpatialFiltering</string>
+    <string name="title_activity_stills">StillsActivity</string>
+    <string name="save_button">Save</string>
+
+    <string name="load_button">Load</string>
+    <string name="desc">Image</string>
+
+    <string name = "notAvailable">This feature is not available in still mode</string>
+
+    <string name="stringSpatial">SIGMA_SPATIAL = </string>
+    <string name="stringIntensity">SIGMA_INTENSITY = </string>
+</resources>

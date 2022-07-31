@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab_1_Template</string>
+    <string name="activity_name">IntensityTransformations</string>
+    <string name="save_button">Save</string>
+</resources>
